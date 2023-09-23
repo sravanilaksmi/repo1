@@ -1,0 +1,31 @@
+et init (to initialize empty git repo)
+
+git config --global user.name "sravs lucky"
+
+git config --global user.email"sravanilakshmi55524@gmail.com"
+
+git config --list
+
+git config --global --unset user.name
+git config --global --unset user.email
+
+
+=============================================
+
+touch file1 (to create files)
+ls
+
+touch f1 f2 (to create more than one)
+
+
+phases
+=============================================
+1. workspace
+2.staging/index
+3.local repo
+=======================================
+git cone https://github.com/sravanilaksmi/repo1.git
+ls
+cd batch97
+ls
+git status
